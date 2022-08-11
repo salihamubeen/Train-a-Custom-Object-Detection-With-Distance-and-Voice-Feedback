@@ -1,0 +1,9 @@
+bed
+table
+sofa
+chair
+door
+stair
+wall
+machine
+person
